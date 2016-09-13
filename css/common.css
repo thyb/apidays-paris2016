@@ -720,6 +720,7 @@ h3 {
 #speakers h3 {
   background-position: center -476px;
   color: #3ca2c0;
+  margin-bottom: 60px;
 }
 #speakers .intro {
   color: #3ca2c0;
@@ -730,8 +731,7 @@ h3 {
   text-align: center;
 }
 #speakers ul {
-  margin: 60px auto 40px auto;
-
+  margin: 10px auto 20px auto;
 }
 #speakers ul:before,
 #speakers ul:after {
@@ -765,11 +765,12 @@ h3 {
 }
 #speakers ul li .desc {
   display: block;
-  margin: ;
   padding-top: 18px;
   background: url(../img/bg-desc-speaker.png) center top no-repeat;
   color: #696969;
   font-size: 17px;
+  min-height: 59px;
+  margin-top: 10px;
 }
 #speakers ul li .bottom {
   padding: 3px;
