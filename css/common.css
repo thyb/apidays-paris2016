@@ -326,13 +326,12 @@ h3 {
 #program {
   min-height: 800px;
   padding-top: 50px;
-  background-color: rgb(60, 162, 192);
+  /*background-color: rgb(60, 162, 192);*/
 }
 #program .content{
   width: 100%;
   margin: 50px auto;
   text-align: center;
-  color: white;
   font-size: 25px;
   font-family: 'misolight', 'Arial';
 }
@@ -343,7 +342,10 @@ h3 {
   font-weight: 600;
 }
 #program h3 {
-  background-position: center -218px;
+
+  background-position: center -713px;
+  color: #3ca2c0;
+  margin-bottom: 60px;
 }
 
 #program table {
